@@ -1,0 +1,13 @@
+06cf4c07f03417521eda98a09b9acabe *DESCRIPTION
+c3af33a5f8924f716671734fb53f8f8a *NAMESPACE
+5c7056aa2bf53f5a9707a67f31eed317 *R/activations.R
+0a37c4df58650d32981d7bf11dfaba84 *R/ica.elm_forecast.R
+8fa777a540e92bc783d51c7c4bbd19ad *R/ica.elm_train.R
+bf97be2c95b3b5e081ba2beb06f76814 *R/pca.elm_forecast.R
+3642b53f643f14bc39dbf3e18163a53b *R/pca.elm_train.R
+3fc8d34b8d067c7a41b71e21981bbbd6 *data/price.rda
+929437cd5d2488fcd58bbc7e281f8c36 *man/ica.elm_forecast.Rd
+ef19eee8a0658b0552d7e5dd7b5ccc21 *man/ica.elm_train.Rd
+10cf89a325118b8e7dd19189a552ff12 *man/pca.elm_forecast.Rd
+ac36f57793df0192ad236ead7fec4325 *man/pca.elm_train.Rd
+41ce1dc29efa01b296fa6cc792c5e046 *man/price.Rd
